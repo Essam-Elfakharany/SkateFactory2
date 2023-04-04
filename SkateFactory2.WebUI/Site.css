@@ -1,0 +1,12 @@
+﻿body {
+    font-family: Tahoma;
+    padding: 30px;
+}
+
+h1, h2, h3, h4 {
+    font-weight: bold;
+}
+
+label {
+    margin-top: 25px;
+}
